@@ -1,0 +1,6 @@
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\bin\Debug\PracticaArchivos.exe.config
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\bin\Debug\PracticaArchivos.exe
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\bin\Debug\PracticaArchivos.pdb
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\obj\Debug\PracticaArchivos.exe
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\obj\Debug\PracticaArchivos.pdb
+c:\users\javier marchetti\documents\visual studio 2015\Projects\PracticaArchivos\PracticaArchivos\obj\Debug\PracticaArchivos.csprojResolveAssemblyReference.cache
